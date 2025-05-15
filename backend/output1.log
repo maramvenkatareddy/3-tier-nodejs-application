@@ -1,0 +1,88 @@
+nohup: ignoring input
+
+> backend@1.0.0 start
+> node server.js
+
+Backend server running on port 5000
+GET /users - Body: {}
+GET /users - Body: {}
+GET /users - Body: {}
+GET /users - Body: {}
+GET /users - Body: {}
+POST /users - Body: { name: 'Jenkins', email: 'venkatareddy33@gmail.com' }
+GET /users - Body: {}
+GET /users - Body: {}
+GET /users - Body: {}
+GET /$%7BAPI_URL%7D/users - Body: {}
+GET /$%7BAPI_URL%7D/users - Body: {}
+POST /$%7BAPI_URL%7D/users - Body: { name: 'Ad', email: 'ven' }
+POST /$%7BAPI_URL%7D/users - Body: { name: 'Ad', email: 'ven' }
+GET /users - Body: {}
+POST /$%7BAPI_URL%7D/users - Body: { name: 'Ad', email: 'ven@gmail.com' }
+POST /$%7BAPI_URL%7D/users - Body: { name: 'Ad', email: 'ven@gmail.com' }
+GET /users - Body: {}
+GET /users - Body: {}
+GET /users - Body: {}
+GET /users - Body: {}
+GET /users - Body: {}
+GET /$%7BAPI_URL%7D/users - Body: {}
+POST /$%7BAPI_URL%7D/users - Body: { name: 'ff', email: 'ffff' }
+POST /$%7BAPI_URL%7D/users - Body: { name: 'ff', email: 'ffff' }
+POST /$%7BAPI_URL%7D/users - Body: { name: 'ff', email: 'ffff' }
+POST /$%7BAPI_URL%7D/users - Body: { name: 'ff', email: 'ffff' }
+POST /$%7BAPI_URL%7D/users - Body: { name: 'ff', email: 'ffff' }
+GET /$%7BAPI_URL%7D/users - Body: {}
+POST /$%7BAPI_URL%7D/users - Body: { name: 'd', email: 'd' }
+POST /$%7BAPI_URL%7D/users - Body: { name: 'd', email: 'd' }
+POST /$%7BAPI_URL%7D/users - Body: { name: 'd', email: 'd' }
+POST /$%7BAPI_URL%7D/users - Body: { name: 'd', email: 'd' }
+POST /$%7BAPI_URL%7D/users - Body: { name: 'd', email: 'd' }
+POST /$%7BAPI_URL%7D/users - Body: { name: 'd', email: 'd' }
+POST /$%7BAPI_URL%7D/users - Body: { name: 'd', email: 'd' }
+POST /$%7BAPI_URL%7D/users - Body: { name: 'd', email: 'd' }
+POST /$%7BAPI_URL%7D/users - Body: { name: 'd', email: 'd' }
+GET /users - Body: {}
+GET /users - Body: {}
+GET /users - Body: {}
+GET /users - Body: {}
+GET /main.4a293987d189799ebf6f.hot-update.json - Body: {}
+GET /users - Body: {}
+GET /users - Body: {}
+GET /users - Body: {}
+POST /users - Body: { name: 'venkat', email: 'venjat' }
+GET /users - Body: {}
+GET /users - Body: {}
+GET /main.e4b0450fae85f0706ff3.hot-update.json - Body: {}
+GET /users - Body: {}
+GET /users - Body: {}
+POST /users - Body: { name: 'dd', email: 'dd' }
+GET /users - Body: {}
+GET /users - Body: {}
+GET /main.ecdd218ceadc76577ceb.hot-update.json - Body: {}
+GET /users - Body: {}
+POST /users - Body: { name: 'mmm', email: 'mmm' }
+GET /users - Body: {}
+GET /users - Body: {}
+GET /users - Body: {}
+GET /main.b13897d81d0132e607f8.hot-update.json - Body: {}
+GET /users - Body: {}
+GET /users - Body: {}
+GET /main.98d973656e53a86683a4.hot-update.json - Body: {}
+GET /users - Body: {}
+GET /users - Body: {}
+GET /users - Body: {}
+GET /users - Body: {}
+GET /users - Body: {}
+GET /users - Body: {}
+GET /users - Body: {}
+GET /users - Body: {}
+POST /users - Body: { name: 'd', email: 'd' }
+GET /users - Body: {}
+GET /users - Body: {}
+GET / - Body: {}
+GET /users - Body: {}
+GET /users - Body: {}
+GET /users - Body: {}
+POST /users - Body: { name: 'd', email: 'd' }
+POST /users - Body: { name: 'Maram Venkata Reddy', email: 'Venkata Reddy' }
+GET /users - Body: {}
